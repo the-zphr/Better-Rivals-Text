@@ -10,7 +10,7 @@ This mod **overhauls the game's text** in a rather entertaining way. It also **r
 You can **report spelling errors**, **suggest per-line changes** or **translate the mod to other languages**. (NOTE: the mod currently only works with the english language of the game)
 
 ## How can I suggest per-line changes/translate it?
-Here's a step-by-step guide:
+Here's a step-by-step guide, there is also a [video](https://youtu.be/bO7HPa57f_E) that explains it visually:
 
 Prerequisites:
 - Frosty Editor (or any software capable of editing .CSV files, such as [VS Code](https://code.visualstudio.com/download); Frosty Editor is highly recommended because you can launch the game directly with the mod injected and it makes editing easier)
