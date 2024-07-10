@@ -1,5 +1,5 @@
 # Better Rivals Text mod for NFS Rivals
-<sup>Created by -Heat-Zephyr, the Leader of Heated</sup>
+<sup>Created by [Zephyr](https://www.youtube.com/channel/UClBKsNkyF5kMl-6-Iv6QFtg), the Leader of Heated</sup>
 
 ## What does it change?
 This mod **overhauls the game's text** in a rather entertaining way. It also **references** some of this game's **commonly known issues and problems**.
