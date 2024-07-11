@@ -36,9 +36,11 @@ Step 2: If you chose **per-line changes**, download the "**[version] (unmodded).
 <details>
   <summary>Step 3 (Frosty Editor)</summary>
   
-Step 3 (for **FE**): **Open Frosty Editor** and **open LSE** (**View** > **Localized String Editor**). Then, click "**Import String List**" and **select the downloaded file**. 
+Step 3 (for **FE**): **Open Frosty Editor** and **open LSE** (**View** > **Localized String Editor**).
 
 ![Opening LSE](resources/images/Opening_LSE.png)
+
+Then, click "**Import String List**" and **select the downloaded file**.
 
 ![Importing the CSV file](resources/images/Importing_the_CSV_file.png)
 - for per-line changes: From the dropdown menu on the left of the LSE window choose "Show only **modified** strings". Here you can start editing the list to your own liking. 
