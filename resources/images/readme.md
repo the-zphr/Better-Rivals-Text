@@ -1,1 +1,1 @@
-### This directory containes images for the main readme.
+## This directory contains images for the main readme.
