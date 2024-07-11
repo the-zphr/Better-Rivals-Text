@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Mod version**
+## Mod version
 Enter the version of the mod along with the language, if applicable.
 
-**File**
+## File
 Attach your .CSV file
 
-**Additional comments**
+## Additional comments
 Anything you'd want to tell us regarding the submission.
