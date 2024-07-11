@@ -11,7 +11,7 @@ You can **report spelling errors**, **suggest per-line changes** or **translate 
 To do that, create an [Issue](https://github.com/the-zphr/Better-Rivals-Text/issues) and provide required information.
 
 ## How can I suggest per-line changes/translate it?
-Follow the guide below; there is also a [video](https://youtu.be/bO7HPa57f_E) that explains it visually: <sub>zeph why would you link it lmao</sub>
+Follow the guide below; there is also a [video](https://youtu.be/bO7HPa57f_E) that explains it visually: <sub>that link is a joke, but it explains how to use github</sub>
 
 # Contributing
 
