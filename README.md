@@ -18,7 +18,8 @@ Follow the guide below; there is also a [video](https://youtu.be/bO7HPa57f_E) th
 Prerequisites:
 - Frosty Editor (or any software capable of editing .CSV files, such as [VS Code](https://code.visualstudio.com/download); Frosty Editor is highly recommended because you can launch the game directly with the mod injected and it makes editing easier)
 - Frosty Mod Manager (optional, but recommended if you want to verify changes)
-Note: both can be found [here](https://github.com/CadeEvs/FrostyToolsuite/releases)
+> [!NOTE]
+> both can be found [here](https://github.com/CadeEvs/FrostyToolsuite/releases)
 
 Step 1: **Choose the way of contributing you'd like**. If it's **suggesting single line changes**, you need the "**(unmodded)**" file. If it's **translating**, then you'd want to download the **regular** file.
 
@@ -33,8 +34,8 @@ Step 4 (for **VS Code**): Open VS Code and open the **downloaded file**. From he
 Step 5 (submitting): If you're using FE: make sure the list shows only **modified** lines, then click **Export String List** and make sure to save it as a .CSV file. If you're using VS Code: simply save the file and you're done. Now, to actually submit it, create a [Pull Request](https://github.com/the-zphr/Better-Rivals-Text/pulls) and attach your modified .CSV file.
 
 
-### IMPORTANT:
-- do NOT change HEX values of lines as it WILL break the affected lines (UNLESS you're swapping them)
-- when you're done with one of the 3rd step's parts, **make sure to save the changes (CTRL + S)** to your .fbproject file (if you want to use it as a mod later on)
-- after changing a line, click "Update" above the text input window. Otherwise your change won't be applied
-- when submitting, put the version along with the language (if it applies) in the filename
+> [!IMPORTANT]
+> - do NOT change HEX values of lines as it WILL break the affected lines (UNLESS you're swapping them)
+> - when you're done with one of the 3rd step's parts, **make sure to save the changes (CTRL + S)** to your .fbproject file (if you want to use it as a mod later on)
+> - after changing a line, click "Update" above the text input window. Otherwise your change won't be applied
+> - when submitting, put the version along with the language (if it applies) in the filename
