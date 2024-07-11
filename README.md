@@ -17,7 +17,7 @@ Follow the guide below; there is also a [video](https://youtu.be/bO7HPa57f_E) th
 
 Prerequisites:
 - Frosty Editor (or any software capable of editing .CSV files, such as [VS Code](https://code.visualstudio.com/download); Frosty Editor is highly recommended because you can launch the game directly with the mod injected and it makes editing easier)
-- Frosty Mod Manager (optional, but recommended if you want to verify changes)
+- Frosty Mod Manager (optional; use it if you want to use your submission with other mods)
 > [!NOTE]
 > both can be found [here](https://github.com/CadeEvs/FrostyToolsuite/releases)
 
