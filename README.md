@@ -37,14 +37,26 @@ Step 2: If you chose **per-line changes**, download the "**[version] (unmodded).
   <summary>Step 3 (Frosty Editor)</summary>
   
 Step 3 (for **FE**): **Open Frosty Editor** and **open LSE** (**View** > **Localized String Editor**). Then, click "**Import String List**" and **select the downloaded file**. 
+
+![Opening LSE](resources/images/Opening_LSE.png)
+
+![Importing the CSV file](resources/images/Importing_the_CSV_file.png)
 - for per-line changes: From the dropdown menu on the left of the LSE window choose "Show only **modified** strings". Here you can start editing the list to your own liking. 
 - for translating: From the dropdown menu on the left of the LSE window choose "Show only **unmodified** strings". Here you can start translating the already modified lines.
+
+![Dropdown menu](resources/images/Dropdown_menu.png)
 </details>
 
 <details>
   <summary>Step 4 (VS Code)</summary>
   
-Step 4 (for **VS Code**): Open VS Code and open the **downloaded file**. From here you can easily find lines by using the Find and replace feature (**CTRL + F**, expand the popup). After you're done, remember to **save the changes made in the file (CTRL + S)** 
+Step 4 (for **VS Code**): Open VS Code and open the **downloaded file**. From here you can easily find lines by using the Find and replace feature (**CTRL + F**, expand the popup). 
+
+![Find and replace](resources/images/Find_and_replace.png)
+
+After you're done, remember to **save the changes made in the file (CTRL + S)** 
+
+![Saving](resources/images/Saving.png)
 </details>
 
 <details>
@@ -58,4 +70,5 @@ Step 5 (submitting): If you're using FE: make sure the list shows only **modifie
 > - do NOT change HEX values of lines as it WILL break the affected lines (UNLESS you're swapping them)
 > - when you're done with one of the 3rd step's parts, **make sure to save the changes (CTRL + S)** to your .fbproject file (if you want to use it as a mod later on)
 > - after changing a line, click "Update" above the text input window. Otherwise your change won't be applied
+> ![Applying](resources/images/Applying.png)
 > - when submitting, put the version along with the language (if it applies) in the filename
