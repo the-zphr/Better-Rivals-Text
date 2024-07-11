@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **Mod version**
-Here goes the version of the mod you modified,
+Here goes the version of the mod you modified.
 
 **Language**
-The language you translated the mod to,
+The language you translated the mod to.
 
 **Additional comments**
-Anything you'd want to tell us regarding the submission,
+Anything you'd want to tell us regarding the submission.
