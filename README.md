@@ -21,17 +21,37 @@ Prerequisites:
 > [!NOTE]
 > both can be found [here](https://github.com/CadeEvs/FrostyToolsuite/releases)
 
+<details>
+  <summary>Step 1 (choosing)</summary>
+
 Step 1: **Choose the way of contributing you'd like**. If it's **suggesting single line changes**, you need the "**(unmodded)**" file. If it's **translating**, then you'd want to download the **regular** file.
+</details>
+
+<details>
+  <summary>Step 2 (downloading)</summary>
 
 Step 2: If you chose **per-line changes**, download the "**[version] (unmodded).csv**" **file** from the directory you want (for example [**BRT 0.3a1 (unmodded).csv**](0.3%20Alpha%20releases/0.3a1/BRT%200.3a1%20(unmodded).csv) from [**0.3 Alpha releases/0.3a1**](0.3%20Alpha%20releases/0.3a1)). However, if you chose **translating**, download the file *without* "**(unmodded)**" in the filename.
+</details>
 
+<details>
+  <summary>Step 3 (Frosty Editor)</summary>
+  
 Step 3 (for **FE**): **Open Frosty Editor** and **open LSE** (**View** > **Localized String Editor**). Then, click "**Import String List**" and **select the downloaded file**. 
 - for per-line changes: From the dropdown menu on the left of the LSE window choose "Show only **modified** strings". Here you can start editing the list to your own liking. 
 - for translating: From the dropdown menu on the left of the LSE window choose "Show only **unmodified** strings". Here you can start translating the already modified lines.
+</details>
 
+<details>
+  <summary>Step 4 (VS Code)</summary>
+  
 Step 4 (for **VS Code**): Open VS Code and open the **downloaded file**. From here you can easily find lines by using **CTRL + F** and edit the text just by **typing**. After you're done, remember to **save the changes made in the file (CTRL + S)** 
+</details>
+
+<details>
+  <summary>Step 5 (submitting)</summary>
 
 Step 5 (submitting): If you're using FE: make sure the list shows only **modified** lines, then click **Export String List** and make sure to save it as a .CSV file. If you're using VS Code: simply save the file and you're done. Now, to actually submit it, create a [Pull Request](https://github.com/the-zphr/Better-Rivals-Text/pulls) and attach your modified .CSV file.
+</details>
 
 
 > [!IMPORTANT]
