@@ -44,7 +44,7 @@ Step 3 (for **FE**): **Open Frosty Editor** and **open LSE** (**View** > **Local
 <details>
   <summary>Step 4 (VS Code)</summary>
   
-Step 4 (for **VS Code**): Open VS Code and open the **downloaded file**. From here you can easily find lines by using **CTRL + F** and edit the text just by **typing**. After you're done, remember to **save the changes made in the file (CTRL + S)** 
+Step 4 (for **VS Code**): Open VS Code and open the **downloaded file**. From here you can easily find lines by using the Find and replace feature (**CTRL + F**, expand the popup). After you're done, remember to **save the changes made in the file (CTRL + S)** 
 </details>
 
 <details>
