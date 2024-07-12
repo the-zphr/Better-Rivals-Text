@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Mod version**
+## Mod version
 Here goes the version of the mod you modified.
 
-**Language**
+## Language
 The language you translated the mod to.
 
-**Additional comments**
+## Additional comments
 Anything you'd want to tell us regarding the submission.
