@@ -72,5 +72,6 @@ Step 5 (submitting): If you're using FE: make sure the list shows only **modifie
 > - do NOT change HEX values of lines as it WILL break the affected lines (UNLESS you're swapping them)
 > - when you're done with one of the 3rd step's parts, **make sure to save the changes (CTRL + S)** to your .fbproject file (if you want to use it as a mod later on)
 > - after changing a line, click "Update" above the text input window. Otherwise your change won't be applied
+>
 > ![Applying](resources/images/Applying.png)
 > - when submitting, put the version along with the language (if it applies) in the filename
