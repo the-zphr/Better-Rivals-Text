@@ -24,19 +24,19 @@ Prerequisites:
 <details>
   <summary>Step 1 (choosing)</summary>
 
-Step 1: **Choose the way of contributing you'd like**. If it's **suggesting single line changes**, you need the "**(unmodded)**" file. If it's **translating**, then you'd want to download the **regular** file.
+**Choose the way of contributing you'd like**. If it's **suggesting single line changes**, you need the "**(unmodded)**" file. If it's **translating**, then you'd want to download the **regular** file.
 </details>
 
 <details>
   <summary>Step 2 (downloading)</summary>
 
-Step 2: If you chose **per-line changes**, download the "**[version] (unmodded).csv**" **file** from the directory you want (for example [**BRT 0.3a1 (unmodded).csv**](0.3%20Alpha%20releases/0.3a1/BRT%200.3a1%20(unmodded).csv) from [**0.3 Alpha releases/0.3a1**](0.3%20Alpha%20releases/0.3a1)). However, if you chose **translating**, download the file *without* "**(unmodded)**" in the filename.
+If you chose **per-line changes**, download the "**[version] (unmodded).csv**" **file** from the directory you want (for example [**BRT 0.3a1 (unmodded).csv**](0.3%20Alpha%20releases/0.3a1/BRT%200.3a1%20(unmodded).csv) from [**0.3 Alpha releases/0.3a1**](0.3%20Alpha%20releases/0.3a1)). However, if you chose **translating**, download the file *without* "**(unmodded)**" in the filename.
 </details>
 
 <details>
   <summary>Step 3 (Frosty Editor)</summary>
   
-Step 3 (for **FE**): **Open Frosty Editor** and **open LSE** (**View** > **Localized String Editor**).
+**Open Frosty Editor** and **open LSE** (**View** > **Localized String Editor**).
 
 ![Opening LSE](resources/images/Opening_LSE.png)
 
@@ -52,7 +52,7 @@ Then, click "**Import String List**" and **select the downloaded file**.
 <details>
   <summary>Step 4 (VS Code)</summary>
   
-Step 4 (for **VS Code**): Open VS Code and open the **downloaded file**. From here you can easily find lines by using the Find and replace feature (**CTRL + F**, expand the popup). 
+Open VS Code and open the **downloaded file**. From here you can easily find lines by using the Find and replace feature (**CTRL + F**, expand the popup). 
 
 ![Find and replace](resources/images/Find_and_replace.png)
 
@@ -64,7 +64,7 @@ After you're done, remember to **save the changes made in the file (CTRL + S)**
 <details>
   <summary>Step 5 (submitting)</summary>
 
-Step 5 (submitting): If you're using FE: make sure the list shows only **modified** lines, then click **Export String List** and make sure to save it as a .CSV file. If you're using VS Code: simply save the file and you're done. Now, to actually submit it, create a [Pull Request](https://github.com/the-zphr/Better-Rivals-Text/pulls) and attach your modified .CSV file.
+If you're using FE: make sure the list shows only **modified** lines, then click **Export String List** and make sure to save it as a .CSV file. If you're using VS Code: simply save the file and you're done. Now, to actually submit it, create a [Pull Request](https://github.com/the-zphr/Better-Rivals-Text/pulls) and attach your modified .CSV file.
 </details>
 
 
