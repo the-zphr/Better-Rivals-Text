@@ -80,3 +80,4 @@ Now, to actually submit it, create a [Pull Request](https://github.com/the-zphr/
 >
 > ![Applying](resources/images/Applying.png)
 > - when submitting, put the version along with the language (if it applies) in the filename.
+> - if you're using VS Code, it's recommended to use the [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) extension (unless you can read monotone text)
